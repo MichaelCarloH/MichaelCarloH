@@ -35,3 +35,14 @@ I'm Michael Carlo, a finance and quantitative engineering enthusiast with a deep
 🔹 **Installation:**  
 ```bash
 pip install tiny_pricing_utils
+```
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="www.linkedin.com/in/michaelcarlo123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="michael.carlo@outlook.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my repositories below to dive deeper into the world of finance and tech ⬇️  
+</samp></p>
