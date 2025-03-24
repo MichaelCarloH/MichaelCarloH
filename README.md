@@ -64,7 +64,7 @@ An exploratory data analysis (EDA) project on **World War 1 propaganda posters**
 ### 📈 Learning Rate Website  
 A dynamic website that visualizes the impact of **learning rates** in deep learning. Features interactive plots demonstrating convergence behavior in neural network training.  
 
-🔗 [Website](https://your-learning-rate-website-link) | 💡 [Codebase](https://github.com/MichaelCarloH/Learning-Rate-website)  
+🔗 [Website](https://learning-rate-red.vercel.app/) | 💡 [Codebase](https://github.com/MichaelCarloH/Learning-Rate-website)  
  
 
 
