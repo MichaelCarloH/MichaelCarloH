@@ -24,7 +24,7 @@ I'm Michael Carlo, a finance and quantitative engineering enthusiast with a deep
 
 ---
 
-## 📊 Featured Project: `tiny_pricing_utils`  
+## 📊 PyPI package: `tiny_pricing_utils`  
 
 🚀 **tiny_pricing_utils** is a lightweight Python package for option pricing and stochastic volatility modeling.  
 
@@ -32,7 +32,7 @@ I'm Michael Carlo, a finance and quantitative engineering enthusiast with a deep
 - **Black-Scholes Model** – Call/Put option pricing & implied volatility calibration.  
 - **Heston Model** – A class-based implementation with FFT pricing methods.  
 - **Monte Carlo Simulations** – Stock path generation & option valuation.  
-- **Characteristic Functions** – For Fourier-based pricing techniques.  
+- **Characteristic Functions** – This module contains functions for calculating the characteristic functions of the log-stock price under the Black-Scholes and Heston models for Fourier-based pricing techniques.  
 
 🔹 **Installation:**  
 ```bash
