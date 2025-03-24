@@ -49,6 +49,24 @@ pip install tiny_pricing_utils
   </a>
 </p>
 
+## 📂 Other Projects  
+
+### 🔹 Option Pricing  
+A web-based tool for pricing financial options using **Black-Scholes** and **Heston models**. Includes interactive visualizations and Monte Carlo simulations for stock price paths.  
+
+🛠️ [Repository](https://github.com/MichaelCarloH/Option-Pricing)  
+
+### 🎨 WW1 Poster Analysis  
+An exploratory data analysis (EDA) project on **World War 1 propaganda posters**. Uses **computer vision** and **machine learning** to analyze themes, color patterns, and sentiment in historical war posters.  
+
+🛠️ [Repository](https://github.com/MichaelCarloH/WWI-Poster-Analysis-Datathon)  
+
+### 📈 Learning Rate Website  
+A dynamic website that visualizes the impact of **learning rates** in deep learning. Features interactive plots demonstrating convergence behavior in neural network training.  
+
+🔗 [Website](https://your-learning-rate-website-link) | 💡 [Codebase](https://github.com/MichaelCarloH/Learning-Rate-website)  
+ 
+
 
 ## 🤝 Let's Connect
 <p align="center">
