@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"><samp>
-I'm Michael Carlo, a finance and quantitative engineering enthusiast with a deep interest in stochastic modeling, algorithmic trading, and financial software development. My work integrates financial mathematics with modern computing techniques to build efficient pricing models, trading strategies, and risk management tools. 🚀  
+I'm Michael Carlo, Electronics engineer mastering in Statistics and Data Science focused on finance and quantitative engineering enthusiast with a deep interest in stochastic modeling, algorithmic trading, and financial software development. My work integrates financial mathematics with modern computing techniques to build efficient pricing models, trading strategies, and risk management tools. 🚀  
 </samp></p>
 
 ---
