@@ -25,6 +25,9 @@ I'm Michael Carlo, Electronics engineer mastering in Statistics and Data Science
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/MQL5-FF9900?style=for-the-badge&logo=mql5&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-FF5F00?style=for-the-badge&logo=chromadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
 
 
