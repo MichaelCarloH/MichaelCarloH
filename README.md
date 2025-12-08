@@ -5,7 +5,8 @@
 </h1>
 
 <p align="center"><samp>
-I'm Michael Carlo, Electronics engineer mastering in Statistics and Data Science focused on finance and quantitative engineering enthusiast with a deep interest in stochastic modeling, algorithmic trading, and financial software development. My work integrates financial mathematics with modern computing techniques to build efficient pricing models, trading strategies, and risk management tools. 🚀  
+I'm Michael Carlo, a Statistics & Data Science student working at the intersection of Machine Learning, NLP, and Quantitative Finance.  
+I enjoy building models, simulations, and tools that link communication, markets, and decision-making.
 </samp></p>
 
 ---
@@ -28,6 +29,12 @@ I'm Michael Carlo, Electronics engineer mastering in Statistics and Data Science
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/ChromaDB-FF5F00?style=for-the-badge&logo=chromadb&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
 
 
