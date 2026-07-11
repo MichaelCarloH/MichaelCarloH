@@ -1,93 +1,145 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Heya!+Welcome+to+my+bio!)](https://git.io/typing-svg)
+<div align="center">
 
-<h1 align="center">
-  <b>Michael Carlo - Finance & Quantitative Engineering</b>
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,55:161B22,100:1F6FEB&text=Michael%20Carlo&fontColor=F0F6FC&fontSize=46&fontAlignY=38&desc=Quantitative%20Research%20%C2%B7%20Machine%20Learning%20%C2%B7%20Statistical%20Arbitrage&descAlignY=58&descSize=17"/>
 
-<p align="center"><samp>
-I'm Michael Carlo, a Statistics & Data Science student working at the intersection of Machine Learning, NLP, and Quantitative Finance.  
-I enjoy building models, simulations, and tools that link communication, markets, and decision-making.
-</samp></p>
-
----
-
-## 🔥 Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/MQL5-FF9900?style=for-the-badge&logo=mql5&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ChromaDB-FF5F00?style=for-the-badge&logo=chromadb&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-</p>
-
-
-
----
-
-## 📊 PyPI package: `tiny_pricing_utils`  
-
-🚀 **tiny_pricing_utils** is a lightweight Python package for option pricing and stochastic volatility modeling.  
-
-🔹 **Implemented Models:**  
-- **Black-Scholes Model** – Call/Put option pricing & implied volatility calibration.  
-- **Heston Model** – A class-based implementation with FFT pricing methods.  
-- **Monte Carlo Simulations** – Stock path generation & option valuation.  
-- **Characteristic Functions** – This module contains functions for calculating the characteristic functions of the log-stock price under the Black-Scholes and Heston models for Fourier-based pricing techniques.  
-
-🔹 **Installation:**  
-```bash
-pip install tiny_pricing_utils
-```
-
-<p align="center">
-  <a href="https://option-pricing-1ld1qd386-michael-carlos-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/📖%20Documentation-Click%20Here-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white">
+<p>
+  <a href="https://www.linkedin.com/in/michaelcarlo123">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Carlo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:michael.carlo@outlook.it">
+    <img src="https://img.shields.io/badge/Email-michael.carlo%40outlook.it-24292F?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-## 📂 Other Projects  
+</div>
 
-### 🔹 Option Pricing  
-A web-based tool for pricing financial options using **Black-Scholes** and **Heston models**. Includes interactive visualizations and Monte Carlo simulations for stock price paths.  
+## About
 
-🛠️ [Repository](https://github.com/MichaelCarloH/Option-Pricing)  
+I am an MSc Statistics and Data Science student at **KU Leuven**, working across quantitative finance, machine learning and market microstructure.
 
-### 🎨 WW1 Poster Analysis  
-An exploratory data analysis (EDA) project on **World War 1 propaganda posters**. Uses **computer vision** and **machine learning** to analyze themes, color patterns, and sentiment in historical war posters.  
+My research focuses on building systematic, testable and execution-aware models for financial markets. I am particularly interested in statistical arbitrage, factor modelling, liquidity, transaction costs and portfolio construction.
 
-🛠️ [Repository](https://github.com/MichaelCarloH/WWI-Poster-Analysis-Datathon)  
+Currently conducting quantitative research in:
 
-### 📈 Learning Rate Website  
-A dynamic website that visualizes the impact of **learning rates** in deep learning. Features interactive plots demonstrating convergence behavior in neural network training.  
+* digital-asset statistical arbitrage
+* corporate-bond liquidity and transaction-cost estimation
+* machine-learning models for financial markets
+* market microstructure and execution-aware portfolio design
 
-🔗 [Website](https://learning-rate-red.vercel.app/) | 💡 [Codebase](https://github.com/MichaelCarloH/Learning-Rate-website)  
- 
+---
 
+## Mosaic Trading
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/michaelcarlo123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:michael.carlo@outlook.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+> **Private quantitative research project — source code is not publicly available.**
+
+**Mosaic Trading** is my primary research initiative in systematic trading and statistical arbitrage.
+
+The project investigates how systematic and idiosyncratic return components can be identified, modelled and incorporated into robust quantitative trading frameworks.
+
+Research areas include:
+
+* dynamic factor modelling
+* residual and cross-sectional signal research
+* statistical arbitrage
+* machine-learning signal classification
+* walk-forward and out-of-sample validation
+* exposure-constrained portfolio construction
+* transaction costs, liquidity and market impact
+* funding-aware execution modelling
+* research-to-production infrastructure
+
+The repositories, model specifications, signal definitions and implementation details remain private because they contain ongoing proprietary research.
+
+---
+
+## Technical Skills
+
+### Programming and Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-<p align="center"><samp>
-Check out my repositories below to dive deeper into the world of finance and tech ⬇️  
-</samp></p>
- 
+### Machine Learning and Data
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-24292F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-24292F?style=flat-square"/>
+</p>
+
+* time-series forecasting
+* feature engineering
+* rolling and walk-forward validation
+* cross-sectional modelling
+* explainable machine learning
+* model evaluation and robustness testing
+
+### Quantitative Finance
+
+* statistical arbitrage
+* dynamic factor models
+* market microstructure
+* liquidity modelling
+* transaction-cost analysis
+* portfolio construction
+* fixed income
+* derivatives
+* stochastic calculus
+* econometrics
+* Monte Carlo methods
+
+---
+
+## Current Focus
+
+```python
+current_focus = {
+    "research": [
+        "statistical arbitrage",
+        "factor decomposition",
+        "market microstructure",
+        "execution-aware modelling"
+    ],
+    "methods": [
+        "machine learning",
+        "time-series analysis",
+        "walk-forward validation",
+        "portfolio optimization"
+    ],
+    "markets": [
+        "digital assets",
+        "corporate bonds",
+        "derivatives"
+    ]
+}
+```
+
+---
+
+<div align="center">
+
+### Contact
+
+<a href="https://www.linkedin.com/in/michaelcarlo123">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:michael.carlo@outlook.it">
+  <img src="https://img.shields.io/badge/Email-Contact-24292F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,55:161B22,100:1F6FEB"/>
+
+</div>
